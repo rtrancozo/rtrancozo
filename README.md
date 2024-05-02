@@ -1,4 +1,4 @@
-##Olá eu sou Rodrigo Trancozo, formado em Automação Industrial, formando em Ciências da Computação.
+##Olá eu sou Rodrigo, formado em Automação Industrial, formando em Ciências da Computação.
 ## 💻 Compartilhar conhecimento é a melhor forma de aprender. "Não importa se você traz um copo ou um balde, o importante é que esteja cheio."
 
 
