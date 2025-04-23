@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">"Compartilhar conhecimento é a melhor forma de aprender."<br>"Não importa se você traz um copo ou um balde, o importante é que esteja cheio."<br>"“Elevar junto quem quer subir, e não forçar quem ainda não quer ir.” </h5>
+<h5 align="left">"Compartilhar conhecimento é a melhor forma de aprender."<br>"Não importa se você traz um copo ou um balde, o importante é que esteja cheio."<br>“Elevar junto quem quer subir, e não forçar quem ainda não quer ir.” </h5>
 
 ###
 
